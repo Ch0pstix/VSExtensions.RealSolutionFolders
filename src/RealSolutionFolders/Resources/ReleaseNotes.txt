@@ -1,0 +1,8 @@
+﻿Real Solution Folders v1.0.0
+September 8, 2022
+
+Changes
+    - Initial Version
+
+Bug Fixes
+    N/A

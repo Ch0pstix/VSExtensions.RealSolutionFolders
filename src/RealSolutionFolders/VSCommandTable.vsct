@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<CommandTable 
+  xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+  
+  <Include href="KnownImageIds.vsct"/>
+  <Include href="VSGlobals.vsct"/>
+
+  <Commands package="RealSolutionFolders">
+
+    <Buttons>
+      <Button guid="RealSolutionFolders" 
+              id="NewFolderCommand" 
+              type="Button">
+        <Icon guid="ImageCatalogGuid" 
+              id="ShowOrHideFolder"/>
+        <CommandFlag>IconIsMoniker</CommandFlag>
+        <Strings>
+          <ButtonText>New Solution Folder &#40;w/Directory&#41;...</ButtonText>
+        </Strings>
+      </Button>
+    </Buttons>
+    
+  </Commands>
+
+  <CommandPlacements>
+    <CommandPlacement guid="RealSolutionFolders" 
+                      id="NewFolderCommand" 
+                      priority="0x0300">
+      <Parent guid="guidSHLMainMenu" 
+              id="IDG_VS_CTXT_SOLUTION_ADD_ITEM"/>
+    </CommandPlacement>
+  </CommandPlacements>
+
+  <Symbols>
+    
+    <GuidSymbol name="RealSolutionFolders" 
+                value="{ab742d1f-8ec5-469a-81f2-a61d1c2666c7}">
+      <IDSymbol name="NewFolderCommand" 
+                value="0x0100"/>
+    </GuidSymbol>
+    
+  </Symbols>
+  
+</CommandTable>
