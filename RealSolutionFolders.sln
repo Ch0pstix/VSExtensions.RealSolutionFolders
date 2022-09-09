@@ -9,7 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSolutionFolders", "src\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "res", "res", "{D2302962-351F-4E34-BE6F-DB3603B82B35}"
 	ProjectSection(SolutionItems) = preProject
+		res\AddSolutionFolderDialog.png = res\AddSolutionFolderDialog.png
 		res\Logo.png = res\Logo.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{08E1C7D3-2988-4D26-B5A3-D823D9353D28}"
+	ProjectSection(SolutionItems) = preProject
+		src\.editorconfig = src\.editorconfig
 	EndProjectSection
 EndProject
 Global
