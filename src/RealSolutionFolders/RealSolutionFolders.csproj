@@ -58,7 +58,7 @@
       <DependentUpon>source.extension.vsixmanifest</DependentUpon>
     </Compile>
     <Compile Include="Validation\FolderNameRule.cs" />
-    <Compile Include="Views\SolutionFolderDialog.xaml.cs">
+    <Compile Include="Dialogs\SolutionFolderDialog.xaml.cs">
       <DependentUpon>SolutionFolderDialog.xaml</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -122,7 +122,7 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <Page Include="Views\SolutionFolderDialog.xaml">
+    <Page Include="Dialogs\SolutionFolderDialog.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

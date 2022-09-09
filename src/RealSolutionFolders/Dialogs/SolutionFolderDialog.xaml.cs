@@ -1,4 +1,4 @@
-﻿namespace RealSolutionFolders.Views;
+﻿namespace RealSolutionFolders.Dialogs;
 
 using Input;
 

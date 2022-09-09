@@ -1,6 +1,6 @@
 ﻿namespace RealSolutionFolders;
 
-using Views;
+using Dialogs;
 
 [Command(PackageIds.NewFolderCommand)]
 internal sealed class NewFolderCommand : BaseCommand<NewFolderCommand>
