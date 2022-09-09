@@ -6,7 +6,7 @@ Adds an additional option to the add context menu for solutions, allowing the cr
 
 ## 🚀 Getting Started
 
-You can download and install the extension on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022).
+You can download and install the extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022) or within the Extension Manager.
 
 ## 🛠️ Commands
 
