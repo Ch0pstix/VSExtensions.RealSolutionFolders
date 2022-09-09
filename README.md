@@ -1,12 +1,25 @@
 ![Real Solution Folders Logo](/res/Logo.png?raw=true)
 
-# Real Solution Folders (VS2022)
+# Real Solution Folders • [![Size](https://img.shields.io/github/repo-size/Ch0pstix/VSExtensions.RealSolutionFolders?style=flat-square)](https://github.com/Ch0pstix/VSExtensions.RealSolutionFolders) [![License](https://img.shields.io/github/license/Ch0pstix/VSExtensions.RealSolutionFolders?style=flat-square)](https://github.com/Ch0pstix/VSExtensions.RealSolutionFolders/blob/master/LICENSE)
+
 Adds an additional option to the add context menu for solutions, allowing the creation of solution folders with matching filesystem directories.
 
-[![License](https://img.shields.io/github/license/Ch0pstix/VSExtensions.RealSolutionFolders)](https://github.com/Ch0pstix/VSExtensions.RealSolutionFolders/blob/master/LICENSE)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/Ch0pstix.VSExtensions.RealSolutionFolders2022?label=installs)](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022)
-[![Version](https://img.shields.io/visual-studio-marketplace/v/Ch0pstix.VSExtensions.RealSolutionFolders2022)](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022)
-[![Size](https://img.shields.io/github/repo-size/Ch0pstix/VSExtensions.RealSolutionFolders)](https://github.com/Ch0pstix/VSExtensions.RealSolutionFolders)
-
 ## 🚀 Getting Started
-[Click here](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022) to download and install the extension for Visual Studio 2022.
+
+You can download and install the extension from the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022) or within the Extension Manager.
+
+## 🛠️ Commands
+
+|Name|Location|Description|
+|----|--------|-----------|
+|NewFolderCommand|Solution > Add > New Solution Folder (w/Directory)...|Opens the 'Add solution folder' modal dialog.|
+
+## 📸 Screenshots
+
+!['Add solution folder' modal dialog](/res/AddSolutionFolderDialog.png?raw=true)
+
+## Special thanks
+
+- [🔗 Extensibility Essentials](https://github.com/VsixCommunity/ExtensibilityEssentials)
+- [🔗 XAML Styler](https://github.com/Xavalon/XamlStyler)
+- [🔗 LambdaConverters](https://github.com/michael-damatov/lambda-converters)
