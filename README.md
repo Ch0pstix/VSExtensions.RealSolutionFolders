@@ -15,7 +15,7 @@ You can download and install the extension from the [Visual Studio Marketplace](
 ## 🖱️ Commands
 
 |Name|Location|Description|
-|----|--------|-----------|
+|---|---|---|
 |New Solution Folder (w/Directory)...|Solution > Add|Opens the dialog window for creating the solution folder.|
 
 ## ✨ Special thanks
