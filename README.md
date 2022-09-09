@@ -16,11 +16,11 @@ You can download and install the extension from the [Visual Studio Marketplace](
 
 |Name|Location|Description|
 |----|--------|-----------|
-|NewFolderCommand|Solution > Add > New Solution Folder (w/Directory)...|Opens the dialog window for creating the solution folder.|
+|New Solution Folder (w/Directory)...|Solution > Add|Opens the dialog window for creating the solution folder.|
 
 ## ✨ Special thanks
 
 Creating this extension was a piece of 🍰, thanks to these amazing tools:
-- [🔗 Extensibility Essentials](https://github.com/VsixCommunity/ExtensibilityEssentials)
-- [🔗 XAML Styler](https://github.com/Xavalon/XamlStyler)
-- [🔗 LambdaConverters](https://github.com/michael-damatov/lambda-converters)
+- [Extensibility Essentials](https://github.com/VsixCommunity/ExtensibilityEssentials)
+- [XAML Styler](https://github.com/Xavalon/XamlStyler)
+- [LambdaConverters](https://github.com/michael-damatov/lambda-converters)
