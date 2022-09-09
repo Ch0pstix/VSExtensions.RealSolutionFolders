@@ -9,4 +9,4 @@ Adds an additional option to the add context menu for solutions, allowing the cr
 [![Size](https://img.shields.io/github/repo-size/Ch0pstix/VSExtensions.RealSolutionFolders)](https://github.com/Ch0pstix/VSExtensions.RealSolutionFolders)
 
 ## 🚀 Getting Started
-[Click here](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders) to download and install the extension for Visual Studio 2022.
+[Click here](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022) to download and install the extension for Visual Studio 2022.
