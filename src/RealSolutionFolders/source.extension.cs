@@ -9,7 +9,7 @@ namespace RealSolutionFolders
     {
         public const string Id = "Ch0pstix.VSExtensions.RealSolutionFolders2022";
         public const string Name = "Real Solution Folders (VS2022)";
-        public const string Description = @"Adds an additional option to the add context menu for solutions, allowing the creation of solution folders with matching filesystem directories.";
+        public const string Description = @"Adds an additional option under the 'Add' context menu for solutions in Visual Studio, allowing the creation of solution folders with actual directories (rather than just being used as visual organization items).";
         public const string Language = "en-US";
         public const string Version = "1.0.2";
         public const string Author = "Isaac Bickel (Ch0pstix)";
