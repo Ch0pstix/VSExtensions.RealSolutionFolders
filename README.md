@@ -14,7 +14,7 @@ You can download and install the extension on the [Visual Studio Marketplace](ht
 ## 🛠️ Commands
 |Name|Location|Description|
 |----|--------|-----------|
-|NewFolderCommand|Solution<br/>&emsp;> Add<br/>&emsp;&emsp;> New Solution Folder (w/Directory)...|Opens the 'Add solution folder' modal dialog.|
+|NewFolderCommand|Solution > Add > New Solution Folder (w/Directory)...|Opens the 'Add solution folder' modal dialog.|
 
 ## 📸 Screenshots
 !['Add solution folder' modal dialog](/res/AddSolutionFolderDialog.png?raw=true)
