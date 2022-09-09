@@ -11,7 +11,7 @@ namespace RealSolutionFolders
         public const string Name = "Real Solution Folders (VS2022)";
         public const string Description = @"Adds an additional option to the add context menu for solutions, allowing the creation of solution folders with matching filesystem directories.";
         public const string Language = "en-US";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
         public const string Author = "Isaac Bickel (Ch0pstix)";
         public const string Tags = "";
     }
