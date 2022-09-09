@@ -1,6 +1,6 @@
 ![Real Solution Folders Logo](/res/Logo.png?raw=true)
 
-# Real Solution Folders (VS2022)
+# Real Solution Folders
 Adds an additional option to the add context menu for solutions, allowing the creation of solution folders with matching filesystem directories.
 
 [![License](https://img.shields.io/github/license/Ch0pstix/VSExtensions.RealSolutionFolders)](https://github.com/Ch0pstix/VSExtensions.RealSolutionFolders/blob/master/LICENSE)
@@ -9,4 +9,17 @@ Adds an additional option to the add context menu for solutions, allowing the cr
 [![Size](https://img.shields.io/github/repo-size/Ch0pstix/VSExtensions.RealSolutionFolders)](https://github.com/Ch0pstix/VSExtensions.RealSolutionFolders)
 
 ## 🚀 Getting Started
-[Click here](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022) to download and install the extension for Visual Studio 2022.
+You can download and install the extension on the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=Ch0pstix.extRealSolutionFolders2022).
+
+## 🛠️ Commands
+|Name|Location|Description|
+|----|--------|-----------|
+|NewFolderCommand|Solution<br/>&emsp;> Add<br/>&emsp;&emsp;> New Solution Folder (w/Directory)...|Opens the 'Add solution folder' modal dialog.|
+
+## 📸 Screenshots
+!['Add solution folder' modal dialog](/res/AddSolutionFolderDialog.png?raw=true)
+
+## Special thanks
+
+- [🔗 Extensibility Essentials](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensibilityEssentials2022)
+- [🔗 XAML Styler](https://github.com/Xavalon/XamlStyler)
