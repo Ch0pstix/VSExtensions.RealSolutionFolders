@@ -7,7 +7,7 @@ namespace RealSolutionFolders
 {
     internal sealed partial class Vsix
     {
-        public const string Id = "Ch0pstix.VSExtensions.RealSolutionFolders-2022";
+        public const string Id = "Ch0pstix.VSExtensions.RealSolutionFolders2022";
         public const string Name = "Real Solution Folders (VS2022)";
         public const string Description = @"Adds an additional option to the add context menu for solutions, allowing the creation of solution folders with matching filesystem directories.";
         public const string Language = "en-US";

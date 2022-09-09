@@ -7,6 +7,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4B55334F-7D0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealSolutionFolders", "src\RealSolutionFolders\RealSolutionFolders.csproj", "{8DA19972-D000-40DF-A2FD-CB8408319389}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "res", "res", "{D2302962-351F-4E34-BE6F-DB3603B82B35}"
+	ProjectSection(SolutionItems) = preProject
+		res\Logo.png = res\Logo.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
